@@ -1,0 +1,189 @@
+/* 
+ * #################################################
+ * @-----------------------------------------------@
+ * @--------   - Desenvolvimento --------@
+ * @-----------------------------------------------@
+ * #################################################
+ *   www. t b d e s e n v o l v i m e n t o .com.br
+ * @-----------------------------------------------@
+ *
+ *
+ * @------------ TB Projects Generator ------------@
+ *
+ * Project name: RN INSTALAÇÕES - WWW.RNINSTALACOES.COM.BR
+ * Year: 2018;
+ * Author:  ;
+ * TB Token code: @1536r646#%$@ˆ$#7;
+ *
+ * Todos os Direitos Reservados -   e RN INSTALAÇÕES
+ *
+ * 
+ * Dúvidas: suporte@tbdesenvolvimento.com.br
+ */
+
+/* Responsive Codes   - 1824px :: 1441px */
+@media screen and (min-width: 1825px) {
+
+}
+/* Responsive Codes   - 1824px :: 1441px */
+@media screen and (max-width: 1824px) {
+
+}
+/* Responsive Codes   - 1440px :: 1383px */
+@media screen and (max-width: 1440px) {
+
+}
+/* Responsive Codes   - 1382px :: 1200px */
+@media screen and (max-width: 1382px) {
+
+}
+/* Responsive Codes   - 1199px :: 1025px */
+@media screen and (max-width: 1199px) {
+
+}
+/* Responsive Codes   - 1024px :: 993px */
+@media screen and (max-width: 1024px) {
+	
+}
+/* Responsive Codes   - 992px :: 769px */
+@media screen and (max-width: 991px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+/* Responsive Codes   - 768px :: 569px */
+@media screen and (max-width: 767px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+/* Responsive Codes   - 568px :: 481px */
+@media screen and (max-width: 567px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+
+.title-slider{
+    font-size: 30px;
+}
+
+.sub-titulo{
+    font-size: 20px;
+}
+
+.xv_slider .xv_slide {
+    height: 550px;
+    padding-top: 110px;
+    padding-left: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.fundo-produtos {
+    clip-path: polygon(50% 3%, 100% 0, 100% 100%, 50% 98%, 0 100%, 0 0);
+}
+
+.fundo-sobre {
+    clip-path: polygon(50% 11%, 100% 0, 100% 100%, 0 100%, 0 0);
+}
+
+.televendas{
+    font-size: 25px;
+}
+
+.credit-logo-tb{
+    float: none;
+    margin-top: 5px;
+}
+
+}
+/* Responsive Codes   - 480px :: 426px */
+@media screen and (max-width: 480px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+/* Responsive Codes   - 425px :: 376px */
+@media screen and (max-width: 425px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+/* Responsive Codes   - 375px :: 361px */
+@media screen and (max-width: 375px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+/* Responsive Codes   - 360px :: 320px */
+@media screen and (max-width: 360px) {
+	html{
+        overflow-x: auto;
+    }
+    #sticktop .main-menu{
+        display: none;
+    }
+    #sticktop .container{
+        min-height: 85px;
+    }
+    .mobile-inner-header{
+        display: block;
+    }
+}
+
